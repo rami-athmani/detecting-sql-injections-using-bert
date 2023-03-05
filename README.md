@@ -7,7 +7,8 @@ The SQL injection is done using an HTTP request carrying the malicious SQL code.
 Detecting SQL Injections  using BERT(Bidirectional Encoder Representations from Transformers).
 ## Demo Workflow
 1. Load and preprocess data:
-   The first step is to load and preprocess the data. This may involve splitting the data into training, validation, and test sets, and converting the text data into a format that BERT can understand. This typically involves tokenizing the text data and converting the tokens into numerical embeddings that can be inputted into the model.
+   The first step is to load and preprocess the data. This may involve splitting the data into training, validation, and test sets, and converting the text data into a format that BERT can understand. 
+   This typically involves tokenizing the text data and converting the tokens into numerical embeddings that can be inputted into the model.
    we gonna use the sql injection dataset "sqliv2.csv" from kaggel.
 2. Load BERT:
    load the pre-trained BERT model from Ktrain library.
