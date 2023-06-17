@@ -57,4 +57,82 @@ partie Train, partie test. parler sur Comment nous avons choisie les hyperparame
 
 3- Ne pas mettre tout le code python , il faut juste concentrer sur l'essentiel.
 
-4-Affihcer les resultats de la matrice de confusion sur 4 chiffres aprés la vergule
+4-Affihcer les resultats de la matrice de confusion sur 4 chiffres aprés la 
+
+
+=================Remarques of 14/06/2023====================================================
+
+Sql injections
+Soutenance Lundi Soir, Mercredi Matin
+
+Key words part: after abstract
+
+References on pages 13 and 14 or in Buttom of page OK
+
+Page 18: Figure 1.4 see as old OK
+
+Page 28 do not talk about SVM ok
+
+Homoginer les figures dans les codes sources ok
+
+
+Chapitre 2:
+
+supprimer la phrase dans introduction: AI comprises two fundamental branches: machine learning
+(ML) and deep learning (DL).
+
+ajouter Definition of machine learning: definition of Tom Michel. machine 
+
+Ajouter plus de détail dans chapitre 2
+
+Ajouter la definition d'un Neuron (weights, ...)
+
+Add equation and courbes of activation function
+
+add figures in DL Architectures 
+
+Add more in Deep learning applications (
+(Cars, Text generation, image generation, Automatique traduction)
+
+
+Chapitre 3
+
+3.6.1 deplacer avec Tools  OK
+
+Figures of code add coloration synthaxique
+
+3.6.4 change Fine tunning Bert
+
+Figure 3.8 make code more visible 
+
+Figure 3.8 there
+
+3.7.1 max length 
+
+Chapitre 4:
+
+Faire sortir la confusion matrix de 4.2
+
+Equation classic avec word (Recall, precision, ....)
+
+Dans confusion matrix il faut ajoutre True Positif (TP).
+
+Show loss courbe and accuracy courbe. of test and validation
+
+
+
+Page 63 BERT (Our Model) 
+
+4.5 : can use 20 Queries and calculate Confusion matrix to compare
+
+Generale Conclusion (Expand the scope to detect and classify various types of cyber attacks.)
+Add examples of attacks
+
+References must updated and show authors names,
+
+For web sites must put the date of consultation
+
+
+Diapo :
+
+Must add figures
