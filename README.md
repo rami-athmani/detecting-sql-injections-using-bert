@@ -3,8 +3,8 @@
 SQL injection attacks represent a major risk for applications interacting with databases.
 An SQL injection consists of injecting malicious SQL code into an SQL query.
 The SQL injection is done using an HTTP request carrying the malicious SQL code.
-## Objective
-Detecting SQL Injections  using BERT(Bidirectional Encoder Representations from Transformers).
+## Objective & Solution
+Detecting SQL Injections using Deel Learning Techniques by Fine tunning BERT model (Bidirectional Encoder Representations from Transformers) for text classification task.
 ## Demo Workflow
 1. Load and preprocess data:
    The first step is to load and preprocess the data. This may involve splitting the data into training, validation, and test sets, and converting the text data into a format that BERT can understand. This typically involves tokenizing the text data and converting the tokens into numerical embeddings that can be inputted into the model.
