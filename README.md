@@ -1,4 +1,4 @@
-# Detecting SQL injections using BERT
+# Detecting SQL injections using Deep Learning Techniques
 ## Problem
 SQL injection attacks represent a major risk for applications interacting with databases.
 An SQL injection consists of injecting malicious SQL code into an SQL query.
